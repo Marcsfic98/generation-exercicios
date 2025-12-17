@@ -1,6 +1,4 @@
-Este é um modelo de **README.md** estruturado e profissional, ideal para ser utilizado em repositórios de código (como GitHub ou GitLab) ou na documentação técnica oficial do produto.
 
------
 
 # NetGuard Pro 🛡️
 
